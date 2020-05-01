@@ -991,51 +991,6 @@
             "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_lg.png", 
             "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_vert.jpg", 
             "id": 112
-        }, 
-        {
-            "localized_name": "Arc Warden", 
-            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_full.png", 
-            "name": "npc_dota_hero_arc_warden", 
-            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_sb.png", 
-            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_lg.png", 
-            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_vert.jpg", 
-            "id": 113
-        }, 
-        {
-            "localized_name": "Underlord", 
-            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_full.png", 
-            "name": "npc_dota_hero_abyssal_underlord", 
-            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_sb.png", 
-            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_lg.png", 
-            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_vert.jpg", 
-            "id": 108
-        }, 
-        {
-            "localized_name": "Monkey King", 
-            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_full.png", 
-            "name": "npc_dota_hero_monkey_king", 
-            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_sb.png", 
-            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_lg.png", 
-            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_vert.jpg", 
-            "id": 114
-        }, 
-        {
-            "localized_name": "Pangolier", 
-            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_full.png", 
-            "name": "npc_dota_hero_pangolier", 
-            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_sb.png", 
-            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_lg.png", 
-            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_vert.jpg", 
-            "id": 120
-        }, 
-        {
-            "localized_name": "Dark Willow", 
-            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_full.png", 
-            "name": "npc_dota_hero_dark_willow", 
-            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_sb.png", 
-            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_lg.png", 
-            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_vert.jpg", 
-            "id": 119
         }
     ]
 }
